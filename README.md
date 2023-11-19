@@ -1,1 +1,0 @@
-# com.sinous.voice.dialer
